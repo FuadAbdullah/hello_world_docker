@@ -1,0 +1,25 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "A hello world Node JS application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FuadAbdullah/hello_world_docker.git"
+  },
+  "keywords": [
+    "hello",
+    "world",
+    "docker",
+    "node"
+  ],
+  "author": "Fuad Abdullah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FuadAbdullah/hello_world_docker/issues"
+  },
+  "homepage": "https://github.com/FuadAbdullah/hello_world_docker#readme"
+}
